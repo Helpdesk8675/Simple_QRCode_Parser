@@ -1,4 +1,3 @@
 # QRCode_Parser
-pip install pillow opencv-python 
-pip install python-docx python-pptx openpyxl pillow pyzbar pandas
-pip install --upgrade python-docx
+
+This will go through a folder you select and if there are any QRcodes, it will determine the URL and save it to a csv file.
